@@ -20,3 +20,6 @@
 	path = plugins/start/telescope.nvim
 	url = https://github.com/nvim-telescope/telescope.nvim.git
 	branch = 0.1.x
+[submodule "plugins/start/nvim-tree.lua"]
+	path = plugins/start/nvim-tree.lua
+	url = https://github.com/nvim-tree/nvim-tree.lua.git
