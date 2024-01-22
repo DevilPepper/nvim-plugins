@@ -1,0 +1,22 @@
+[submodule "plugins/start/nvim-web-devicons"]
+	path = plugins/start/nvim-web-devicons
+	url = https://github.com/nvim-tree/nvim-web-devicons.git
+[submodule "plugins/start/alpha-nvim"]
+	path = plugins/start/alpha-nvim
+	url = https://github.com/goolord/alpha-nvim.git
+[submodule "dependencies/start/plenary.nvim"]
+	path = dependencies/start/plenary.nvim
+	url = https://github.com/nvim-lua/plenary.nvim.git
+[submodule "plugins/start/nvim-treesitter"]
+	path = plugins/start/nvim-treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "plugins/start/vim-startuptime"]
+	path = plugins/start/vim-startuptime
+	url = https://github.com/dstein64/vim-startuptime.git
+[submodule "plugins/start/noice.nvim"]
+	path = plugins/start/noice.nvim
+	url = https://github.com/folke/noice.nvim.git
+[submodule "plugins/start/telescope.nvim"]
+	path = plugins/start/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim.git
+	branch = 0.1.x
