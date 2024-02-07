@@ -23,3 +23,18 @@
 [submodule "plugins/start/nvim-tree.lua"]
 	path = plugins/start/nvim-tree.lua
 	url = https://github.com/nvim-tree/nvim-tree.lua.git
+[submodule "plugins/start/nvim-colorizer.lua"]
+	path = plugins/start/nvim-colorizer.lua
+	url = https://github.com/NvChad/nvim-colorizer.lua.git
+[submodule "plugins/start/catppuccin"]
+	path = plugins/start/catppuccin
+	url = https://github.com/catppuccin/nvim.git
+[submodule "plugins/start/lualine.nvim"]
+	path = plugins/start/lualine.nvim
+	url = https://github.com/nvim-lualine/lualine.nvim.git
+[submodule "dependencies/start/nui.nvim"]
+	path = dependencies/start/nui.nvim
+	url = https://github.com/MunifTanjim/nui.nvim.git
+[submodule "plugins/start/nvim-treesitter-textobjects"]
+	path = plugins/start/nvim-treesitter-textobjects
+	url = https://github.com/nvim-treesitter/nvim-treesitter-textobjects.git
