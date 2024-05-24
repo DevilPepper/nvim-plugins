@@ -38,3 +38,6 @@
 [submodule "plugins/start/nvim-treesitter-textobjects"]
 	path = plugins/start/nvim-treesitter-textobjects
 	url = https://github.com/nvim-treesitter/nvim-treesitter-textobjects.git
+[submodule "plugins/start/sg.nvim"]
+	path = plugins/start/sg.nvim
+	url = https://github.com/sourcegraph/sg.nvim.git
