@@ -38,3 +38,6 @@
 [submodule "plugins/start/nvim-treesitter-textobjects"]
 	path = plugins/start/nvim-treesitter-textobjects
 	url = https://github.com/nvim-treesitter/nvim-treesitter-textobjects.git
+[submodule "plugins/start/codeium.nvim"]
+	path = plugins/start/codeium.nvim
+	url = https://github.com/Exafunction/codeium.nvim.git
